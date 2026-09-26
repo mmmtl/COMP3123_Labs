@@ -14,7 +14,7 @@
     "user3": {
         "name": "Ahmed",
         "password": "password3",
-        "profession": "student",
+        "profession": "clerk",
         "id": 3
     }
 }
